@@ -1,0 +1,26 @@
+.App {
+  display: flex;
+  align-items: center;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+  font-family: system-ui;
+}
+.card {
+  font-weight: 100;
+  padding-top: 30px;
+  padding-right: 30px;
+  padding-bottom: 30px;
+  padding-left: 30px;
+}
+
+.title {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: large;
+  font-display: center;
+}
+
+.description {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: small;
+}
